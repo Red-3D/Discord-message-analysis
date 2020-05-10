@@ -1,4 +1,4 @@
-the input is .json from https://github.com/Tyrrrz/DiscordChatExporter
+the input is .json from https://github.com/Tyrrrz/DiscordChatExporter                        
 Written in Python 3.8.2
 
 1: Export the chats you want to analysie from the DiscordChatExporter                                    
