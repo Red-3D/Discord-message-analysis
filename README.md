@@ -7,3 +7,6 @@ Written in Python 3.8.2
 
 4: input the generated file path and user name into Visualisation.py                                  
 5: enjoy your beautiful graph
+
+example of output:
+![example.png](https://github.com/Red-3D/Discord-message-frequency-analysis/blob/master/example.png?raw=true "Example")
