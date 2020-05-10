@@ -1,4 +1,6 @@
-the chat input is .json from https://github.com/Tyrrrz/DiscordChatExporter                        
+the chat input is .json from https://github.com/Tyrrrz/DiscordChatExporter
+Using the DiecordChatExporter is against Discord's TOS and could get your account removed. Please only use it if you know what you are doing.
+
 this tool was written in Python 3.8.2
 
 1: Export the chats you want to analyze from the DiscordChatExporter                                    
