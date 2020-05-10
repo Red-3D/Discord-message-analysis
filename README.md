@@ -1,5 +1,5 @@
 the chat input is .json from https://github.com/Tyrrrz/DiscordChatExporter                        
-Written in Python 3.8.2
+this tool was written in Python 3.8.2
 
 1: Export the chats you want to analyze from the DiscordChatExporter                                    
 2: insert the file path and User ID intro get_messages_by_user.py                      
