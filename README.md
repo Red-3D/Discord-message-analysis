@@ -4,7 +4,7 @@ Using the DiscordChatExporter is against Discord's TOS and could get your accoun
 this tool was written in Python 3.8.2.
 
 1: Export the chats you want to analyze from the DiscordChatExporter                                    
-2: insert the file path and User ID intro get_messages_by_user.py                      
+2: insert the file path and User ID into get_messages_by_user.py                      
 3: specify an output path                                    
 
 4: input the generated file path and user name into Visualisation.py                                  
