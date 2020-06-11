@@ -1,5 +1,5 @@
 the chat input is .json from https://github.com/Tyrrrz/DiscordChatExporter
-Using the DiscordChatExporter is against Discord's TOS and could get your account removed. Please only use it if you know what you are doing.
+Using the DiscordChatExporter could be against Discord's TOS and could get your account removed. Please only use it if you know what you are doing.
 
 this tool was written in Python 3.8.2.
 
