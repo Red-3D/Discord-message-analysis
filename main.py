@@ -2,9 +2,11 @@ import json
 import glob
 from matplotlib import pyplot as plt
 
+#------------------change these------------------
 user_ID = "3062"
 display_name = "Red_3D"
 path = "C:/.../"
+#------------------change these------------------
 
 #get json files in directory
 files = glob.glob((path+"*.json"))
