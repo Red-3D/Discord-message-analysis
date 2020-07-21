@@ -1,4 +1,4 @@
-the chat input is .json from https://github.com/Tyrrrz/DiscordChatExporter
+the chat input is .json from https://github.com/Tyrrrz/DiscordChatExporter                                            
 Using the DiscordChatExporter could be against Discord's TOS. Please only use it if you know what you are doing.
 
 this tool was written in Python 3.8.2.
