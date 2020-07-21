@@ -1,14 +1,11 @@
 the chat input is .json from https://github.com/Tyrrrz/DiscordChatExporter
-Using the DiscordChatExporter could be against Discord's TOS and could get your account removed. Please only use it if you know what you are doing.
+Using the DiscordChatExporter could be against Discord's TOS. Please only use it if you know what you are doing.
 
 this tool was written in Python 3.8.2.
 
 1: Export the chats you want to analyze from the DiscordChatExporter                                    
-2: insert the file path and User ID into get_messages_by_user.py                      
-3: specify an output path                                    
-
-4: input the generated file path and user name into Visualisation.py                                  
-5: enjoy your beautiful graph
+2: insert the file path the display name and the user ID                                                   
+3: enjoy your beautiful graph
 
 example of output:
 ![example.png](https://github.com/Red-3D/Discord-message-frequency-analysis/blob/master/example.png?raw=true "Example")
