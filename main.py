@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 user_ID = "3062"
 display_name = "Red_3D"
-path = "C:/Users/Red/Documents/Logic World Discord/"
+path = "C:/.../"
 
 #get json files in directory
 files = glob.glob((path+"*.json"))
